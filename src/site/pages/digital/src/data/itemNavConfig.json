@@ -1,0 +1,74 @@
+{
+    "imgRoot": "img/itemnav",
+    "sections": [
+      {
+        "id": "inputs",
+        "label": "Inputs",
+        "items": [
+          {
+            "id": "Button",
+            "label": "Button",
+            "icon": "button.svg"
+          },
+          {
+            "id": "Switch",
+            "label": "Switch",
+            "icon": "switch.svg"
+          }
+        ]
+      },
+      {
+        "id": "outputs",
+        "label": "Outputs",
+        "items": [
+          {
+            "id": "LED",
+            "label": "LED",
+            "icon": "led.svg"
+          }
+        ]
+      },
+      {
+        "id": "gates",
+        "label": "Logic Gates",
+        "items": [
+          {
+            "id": "NOTGate",
+            "label": "NOT",
+            "icon": "notgate.svg"
+          },
+          {
+            "id": "ANDGate",
+            "label": "AND",
+            "icon": "andgate.svg"
+          },
+          {
+            "id": "NANDGate",
+            "label": "NAND",
+            "icon": "nandgate.svg"
+          },
+          {
+            "id": "ORGate",
+            "label": "OR",
+            "icon": "orgate.svg"
+          },
+          {
+            "id": "NORGate",
+            "label": "NOR",
+            "icon": "norgate.svg"
+          }
+        ]
+      },
+      {
+        "id": "other",
+        "label": "Other",
+        "items": [
+          {
+            "id": "Label",
+            "label": "Label",
+            "icon": "label.svg"
+          }
+        ]
+      }
+    ]
+  }

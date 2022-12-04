@@ -1,0 +1,28 @@
+{
+    "examples": [
+        {
+            "id": "0",
+            "name": "Blackbox 1",
+            "file": "blackbox1.circuit",
+            "thumbnail": "img/thumbnails/blackbox.svg"
+        },
+        {
+            "id": "1",
+            "name": "Blackbox 2",
+            "file": "blackbox2.circuit",
+            "thumbnail": "img/thumbnails/blackbox.svg"
+        },
+        {
+            "id": "2",
+            "name": "Blackbox 3",
+            "file": "blackbox3.circuit",
+            "thumbnail": "img/thumbnails/blackbox.svg"
+        },
+        {
+            "id": "2",
+            "name": "Blackbox 4",
+            "file": "blackbox4.circuit",
+            "thumbnail": "img/thumbnails/blackbox.svg"
+        }
+    ]
+}
