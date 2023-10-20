@@ -2,24 +2,48 @@
     "examples": [
         {
             "id": "0",
+            "name": "AND Gate",
+            "file": "and.circuit",
+            "thumbnail": "img/thumbnails/and.svg"
+        },   
+        {
+            "id": "1",
+            "name": "NAND Gate",
+            "file": "blackbox1.circuit",
+            "thumbnail": "img/thumbnails/nand.svg"
+        },   
+        {
+            "id": "2",
+            "name": "OR Gate",
+            "file": "blackbox1.circuit",
+            "thumbnail": "img/thumbnails/or.svg"
+        },   
+        {
+            "id": "3",
+            "name": "NOR Gate",
+            "file": "blackbox1.circuit",
+            "thumbnail": "img/thumbnails/nor.svg"
+        },        
+        {
+            "id": "4",
             "name": "Blackbox 1",
             "file": "blackbox1.circuit",
             "thumbnail": "img/thumbnails/blackbox.svg"
         },
         {
-            "id": "1",
+            "id": "5",
             "name": "Blackbox 2",
             "file": "blackbox2.circuit",
             "thumbnail": "img/thumbnails/blackbox.svg"
         },
         {
-            "id": "2",
+            "id": "6",
             "name": "Blackbox 3",
             "file": "blackbox3.circuit",
             "thumbnail": "img/thumbnails/blackbox.svg"
         },
         {
-            "id": "2",
+            "id": "7",
             "name": "Blackbox 4",
             "file": "blackbox4.circuit",
             "thumbnail": "img/thumbnails/blackbox.svg"
