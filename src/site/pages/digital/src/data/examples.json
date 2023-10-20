@@ -9,19 +9,19 @@
         {
             "id": "1",
             "name": "NAND Gate",
-            "file": "blackbox1.circuit",
+            "file": "nand.circuit",
             "thumbnail": "img/thumbnails/nand.svg"
         },   
         {
             "id": "2",
             "name": "OR Gate",
-            "file": "blackbox1.circuit",
+            "file": "or.circuit",
             "thumbnail": "img/thumbnails/or.svg"
         },   
         {
             "id": "3",
             "name": "NOR Gate",
-            "file": "blackbox1.circuit",
+            "file": "nor.circuit",
             "thumbnail": "img/thumbnails/nor.svg"
         },        
         {
